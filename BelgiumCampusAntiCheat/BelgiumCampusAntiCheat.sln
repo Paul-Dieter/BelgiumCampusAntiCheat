@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelgiumCampusAntiCheat", "BelgiumCampusAntiCheat\BelgiumCampusAntiCheat.csproj", "{DEED07AC-E6FD-4EFB-B0DA-A118E57E964C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEED07AC-E6FD-4EFB-B0DA-A118E57E964C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEED07AC-E6FD-4EFB-B0DA-A118E57E964C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEED07AC-E6FD-4EFB-B0DA-A118E57E964C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEED07AC-E6FD-4EFB-B0DA-A118E57E964C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {044FE7C6-62A2-48C3-AC37-D78A79C834DF}
+	EndGlobalSection
+EndGlobal
